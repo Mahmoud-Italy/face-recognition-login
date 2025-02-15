@@ -57,7 +57,7 @@ pkg-config --modversion opencv4
 ```
 If it returns an OpenCV version number (e.g., 4.5.2), everything is good. <br />
 
-🔧 Example Usage
+## 🔧 Example Usage
 ```bash
 import (
     "fmt"
@@ -72,7 +72,7 @@ func main() {
 }
 ```
 
-🛠️ Running Tests
+## 🛠️ Running Tests
 ```bash
 go test
 ```
