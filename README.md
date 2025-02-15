@@ -49,14 +49,21 @@ Also, check if OpenCV is found by running:
 ```bash
 pkg-config --modversion opencv4
 ```
-If it returns an OpenCV version number (e.g., 4.5.2), everything is good.
+If it returns an OpenCV version number (e.g., 4.5.2), everything is good. <br />
 
-
+🔧 Example Usage
 ```bash
-faceRec, _ := facerecognition.NewFaceRecognizer("assets/haarcascade_frontalface_default.xml", "models/face_model.yml")
-faceRec.RegisterFace("data/test_faces/face1.jpg", 1)
-label, confidence, _ := faceRec.RecognizeFace("data/test_faces/face1.jpg")
-fmt.Printf("Recognized label: %d, Confidence: %f\n", label, confidence)
+import (
+    "fmt"
+	facerecognition "github.com/mahmoud-italy/face-recognition-login"
+)
+
+func main() {
+    faceRec, _ := facerecognition.NewFaceRecognizer("assets/haarcascade_frontalface_default.xml", "models/face_model.yml")
+    faceRec.RegisterFace("data/test_faces/face1.jpg", 1)
+    label, confidence, _ := faceRec.RecognizeFace("data/test_faces/face1.jpg")
+    fmt.Printf("Recognized label: %d, Confidence: %f\n", label, confidence)
+}
 ```
 
 🛠️ Running Tests
