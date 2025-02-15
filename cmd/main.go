@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mahmoud-italy/face-recognition-login/facerecognition"
+	facerecognition "github.com/mahmoud-italy/face-recognition-login"
 )
 
 func main() {

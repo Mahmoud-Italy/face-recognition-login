@@ -15,14 +15,13 @@ go get -u github.com/mahmoud-italy/face-recognition-login
 ```
 
 ## 🏗️ Setup
-Install pkg-config and OpenCV
-<i>Depending on your OS, install pkg-config using the appropriate command:</i>
+Install pkg-config and OpenCV <br />
+<i>Depending on your OS using the appropriate command:</i>
 
 Ubuntu/Debian
 ```bash
 sudo apt update
 sudo apt install -y pkg-config
-
 sudo apt install -y libopencv-dev
 ```
 
