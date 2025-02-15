@@ -1,5 +1,11 @@
 # Face Recognition Login in Go
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/mahmoud-italy/face-recognitation-login.svg)](https://pkg.go.dev/github.com/mahmoud-italy/face-recognitation-login)
+![License](https://img.shields.io/github/license/mahmoud-italy/face-recognitation-login)
+![Go Report Card](https://goreportcard.com/badge/github.com/mahmoud-italy/face-recognitation-login)
+![Version](https://img.shields.io/github/tag/mahmoud-italy/face-recognitation-login)
+![Go Version](https://img.shields.io/badge/go-1.23.6-blue)
+
 This is a face recognition login package using Go and OpenCV (`gocv`).
 
 ## 🚀 Features
