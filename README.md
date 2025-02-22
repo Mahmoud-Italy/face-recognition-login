@@ -1,6 +1,6 @@
 # Face Recognition Login in Go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/mahmoud-italy/face-recognition-login.svg)](https://pkg.go.dev/github.com/mahmoud-italy/face-recognition-login)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Mahmoud-Italy/face-recognition-login.svg)](https://pkg.go.dev/github.com/Mahmoud-Italy/face-recognition-login)
 ![License](https://img.shields.io/github/license/mahmoud-italy/face-recognition-login)
 ![Go Report Card](https://goreportcard.com/badge/github.com/mahmoud-italy/face-recognition-login)
 ![Version](https://img.shields.io/github/tag/mahmoud-italy/face-recognition-login)
