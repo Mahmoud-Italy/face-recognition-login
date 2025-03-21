@@ -20,7 +20,7 @@ This is a face recognition login package using Go and OpenCV (`gocv`).
 go get -u github.com/mahmoud-italy/face-recognition-login
 ```
  
-## 🏗️ Setup
+## 🏗️ Setup 
 Install pkg-config and OpenCV <br />
 <i>Depending on your OS using the appropriate command:</i>
 
