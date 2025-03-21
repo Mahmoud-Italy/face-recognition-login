@@ -36,7 +36,7 @@ Mac (Homebrew)
 brew install pkg-config
 brew install opencv
 ```
-
+ 
 Windows (Using MSYS2) If you're on Windows, install MSYS2 and then run
 ```bash
 pacman -S mingw-w64-x86_64-pkg-config
