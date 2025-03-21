@@ -10,7 +10,7 @@ This is a face recognition login package using Go and OpenCV (`gocv`).
   
 ## 🚀 Features
 - Face detection using Haar cascades
-- Face recognition using OpenCV's FaceRecognizer
+- Face recognition using OpenCV's FaceRecognizer 
 - Model training and updating
 - Easy API for face registration and recognition
 
