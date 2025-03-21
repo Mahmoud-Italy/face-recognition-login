@@ -45,7 +45,7 @@ Download and install OpenCV from the official website: <a href="https://opencv.o
 Set the OpenCV_DIR environment variable to the installation path.
 
 Verify Installation
-Run the following command to check if pkg-config is properly installed:
+Run the following command to check if pkg-config is properly installed: 
 ```bash
 pkg-config --version
 ```
