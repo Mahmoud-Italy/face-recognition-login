@@ -16,7 +16,7 @@ This is a face recognition login package using Go and OpenCV (`gocv`).
 
 ## 📦 Installation 
  
-```bash 
+```bash  
 go get -u github.com/mahmoud-italy/face-recognition-login
 ``` 
   
