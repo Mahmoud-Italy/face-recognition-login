@@ -38,7 +38,7 @@ brew install opencv
 ```
  
 Windows (Using MSYS2) If you're on Windows, install MSYS2 and then run
-```bash
+```bash 
 pacman -S mingw-w64-x86_64-pkg-config
 ```
 Download and install OpenCV from the official website: <a href="https://opencv.org/releases/" target="_blank">https://opencv.org/releases</a>
