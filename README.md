@@ -7,7 +7,7 @@
 ![Go Version](https://img.shields.io/badge/go-1.23.6-blue)
   
 This is a face recognition login package using Go and OpenCV (`gocv`).
-      
+       
 ## 🚀 Features
 - Face detection using Haar cascades
 - Face recognition using OpenCV's FaceRecognizer  
